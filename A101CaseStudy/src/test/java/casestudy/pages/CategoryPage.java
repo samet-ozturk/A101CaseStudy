@@ -27,6 +27,5 @@ public class CategoryPage {
     public void goToProductDetailPage() {
         helper.waitFor(3);
         productCard.click();
-
     }
 }
